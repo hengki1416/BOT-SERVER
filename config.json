@@ -1,7 +1,7 @@
 {
 	"ip":"DiscoverCraftS2.aternos.me",
 	"port": "36987",
-	"name": "botserver",
+	"name": "BOTOWNER",
 	"auto-night-skip":"false",
 	"login-enabled":"true",
 	"register-cmd":"/register pass123 ",
